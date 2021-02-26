@@ -1,1 +1,1 @@
-# Sclack-clone
+# Slack-clone
